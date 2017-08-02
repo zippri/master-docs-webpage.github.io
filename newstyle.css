@@ -1,0 +1,94 @@
+
+*{
+	font-family: Big Caslon;
+}
+
+.header{
+    text-align: center;
+	color: black;
+	padding-top: 30px;
+}
+
+.caption{
+	text-align: ;
+	margin: 0px 180px;
+	font-style: italic;
+	padding-bottom: 20px;
+	padding-top: 0px;
+	font-size: 10px;
+}
+
+.byline{
+	text-align: left;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	padding-left: 132px;
+	font-size: 20px;
+}
+
+.text{
+	min-width: 45%;
+	max-width: 45%;
+	margin: 0px 340px;
+	font-size: 20px;
+	padding-bottom: 10px;
+	line-height: 1.5em;
+}
+
+.bio{
+	text-align: center;
+	font-style: italic;
+	line-height: .25em;
+	font-size: 14px;
+	letter-spacing: .5px;
+}
+
+	h1{
+	font-size: 30pt;
+    text-transform: uppercase;
+    word-spacing: .18em;
+    letter-spacing: .85px;
+}
+
+    img{
+	max-width: 70%;
+	max-height: 60%;
+	text-align: center;
+	line-height: 1.5em;
+}
+
+    h2{
+	font-size: 18px;
+	color: black;
+	font-style: italic;
+    line-height: .25em;
+    letter-spacing: .35px;
+}
+
+    h3{
+    font-size: 10pt;
+    line-height: .25em;
+    text-align: right;
+    font-style: italic;
+    padding-left: 0px;
+}
+
+    li{
+	list-style-type: none;
+	padding-bottom: 15px;
+}
+
+    #bio{
+	padding-bottom: 5px;
+}
+
+    #quote{
+	font-style: italic;
+	font-size: 50px;
+	line-height: 1.0em;
+	word-spacing: .1em;
+}
+
+   
+
+  
